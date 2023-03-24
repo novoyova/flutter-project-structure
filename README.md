@@ -4,7 +4,7 @@ Flutter project structure example for big project.
 
 ## Feature First Structure
 
-`source`: [Lambda Dev](https://www.youtube.com/watch?v=joOaNMFE9_M)
+**`Source`**: [Lambda Dev](https://www.youtube.com/watch?v=joOaNMFE9_M)
 
 ```
 .
