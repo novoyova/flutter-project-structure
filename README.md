@@ -54,6 +54,8 @@ Flutter project structure example for big project.
 
 ## Clean Feature First Structure
 
+**`Source`**: [Reso Coder](https://www.youtube.com/playlist?list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)
+
 ```
 .
 ├── assets/
